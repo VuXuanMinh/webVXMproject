@@ -1,0 +1,61 @@
+/* Styling for Step 3: body */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin: 0; 
+}
+
+/* Styling for Step 4: header */
+header {
+    background-color: #004d99; 
+    color: white; 
+    padding: 20px;
+}
+
+/* Styling for Step 5: nav */
+nav {
+    background-color: #f0f0f0; 
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+/* Styling for Step 8: li */
+nav li {
+    display: inline-block; 
+    width: 120px; 
+    text-align: center;
+}
+
+/* Styling for Step 6: main */
+main {
+    background-color: white;
+    font-size: 1.1em;
+    padding: 20px;
+    min-height: 400px;
+}
+
+/* Styling for Step 9: h1 */
+h1 {
+    text-align: center; 
+    font-family: 'Times New Roman', Times, serif; 
+    color: white; 
+}
+
+/* Styling for Step 10: p */
+p {
+    line-height: 1.6; 
+    margin-bottom: 15px;
+}
+
+/* Styling for Step 7: footer */
+footer {
+    background-color: #333; 
+    color: #cccccc;
+    padding: 15px;
+    text-align: center;
+}
